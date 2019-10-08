@@ -1,6 +1,11 @@
 # AngularDashboard
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.8.
+Just a little hobby project building a dashboard using Angular 8 and Bulma SASS.
+
+## Useful Links
+
+- [Material Design Icons](https://dev.materialdesignicons.com/icons)
+- [Bulma Components](https://bulma.io/documentation/components/)
 
 ## Development server
 
