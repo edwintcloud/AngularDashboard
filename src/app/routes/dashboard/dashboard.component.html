@@ -1,3 +1,25 @@
-<p>
-  dashboard works!
-</p>
+<mat-sidenav-container class="sidenav-container" hasBackdrop="false">
+  <!-- SIDEBAR -->
+  <mat-sidenav #sidenav mode="push">
+    Sidenav content
+  </mat-sidenav>
+  <!-- SIDEBAR CONTENT -->
+  <mat-sidenav-content>
+    <!-- NAVBAR -->
+    <mat-toolbar color="primary">
+      <button mat-icon-button aria-label="Open Menu" (click)="sidenav.toggle()">
+        <mat-icon>menu</mat-icon>
+      </button>
+      <button
+        mat-icon-button
+        aria-label="Notifications"
+        class="notifications-btn"
+      >
+        <mat-icon>mail_outline</mat-icon>
+      </button>
+    </mat-toolbar>
+
+    <!-- PAGE CONTENT -->
+    hello
+  </mat-sidenav-content>
+</mat-sidenav-container>

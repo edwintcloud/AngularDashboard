@@ -6,6 +6,8 @@ import { Component, OnInit } from "@angular/core";
   styleUrls: ["./dashboard.component.sass"]
 })
 export class DashboardComponent implements OnInit {
+  events: string[] = [];
+  opened: boolean;
   constructor() {}
 
   ngOnInit() {}
