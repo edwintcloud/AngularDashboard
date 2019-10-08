@@ -1,11 +1,10 @@
 # AngularDashboard
 
-Just a little hobby project building a dashboard using Angular 8 and Bulma SASS.
+Just a little hobby project building a dashboard using Angular 8.
 
 ## Useful Links
 
-- [Material Design Icons](https://dev.materialdesignicons.com/icons)
-- [Bulma Components](https://bulma.io/documentation/components/)
+- [Angular Material Components](https://material.angular.io/components/categories)
 
 ## Development server
 
