@@ -5,6 +5,7 @@ Just a little hobby project building a dashboard using Angular 8.
 ## Useful Links
 
 - [Angular Material Components](https://material.angular.io/components/categories)
+- [Inspiration](https://github.com/mazipan/bulma-admin-dashboard-template/blob/master/inspiration-dashboard.jpg)
 
 ## Development server
 
